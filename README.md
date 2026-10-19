@@ -21,7 +21,7 @@
 
 <br/><br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/roberto-sarr%C3%ADa-solsona-a046b2304/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/peristack/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&to=perillancete@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
   <a href="https://steamcommunity.com/id/peri44/"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=58a6ff" alt="Steam" /></a>
 </p>
