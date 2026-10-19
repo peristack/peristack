@@ -21,7 +21,7 @@
 
 <br/><br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/peristack/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/peristack/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzU4YTZmZiIgZD0iTTMgOWg0djEySDN6TTUgM2EyIDIgMCAxIDEgMCA0IDIgMiAwIDAgMSAwLTR6TTkgOWg0djEuN2MuNi0xIDEuOS0yIDMuOS0yIDQgMCA0LjYgMi42IDQuNiA2VjIxaC00di01LjVjMC0xLjQgMC0zLjItMi0zLjJzLTIuNCAxLjUtMi40IDMuMVYyMUg5eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&to=perillancete@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
   <a href="https://steamcommunity.com/id/peri44/"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=58a6ff" alt="Steam" /></a>
 </p>
