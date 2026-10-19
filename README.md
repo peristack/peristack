@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**peristack/peristack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=%24+ping+peristack+--telecom;Telecommunications+Engineering+student;Networks+%C2%B7+Cybersecurity+%C2%B7+AI+%C2%B7+Cloud;Building+a+mini+Network+Operations+Center" alt="typing" />
 
-Here are some ideas to get you started:
+<img src="terminal.svg" alt="Roberto Sarría Solsona - terminal profile card" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub><code>// TOOLS & ENVIRONMENT</code></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,latex,linux,git,docker,idea,vscode&theme=dark" alt="Python, Java, C, MATLAB, HTML, LaTeX, Linux, Git, Docker, IntelliJ IDEA, VS Code" />
+<br/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=58a6ff" alt="Wireshark" />
+<img src="https://img.shields.io/badge/VHDL-0d1117?style=for-the-badge" alt="VHDL" />
+<img src="https://img.shields.io/badge/YAML-0d1117?style=for-the-badge&logo=yaml&logoColor=58a6ff" alt="YAML" />
+
+<br/><br/>
+<sub><code>// GITHUB STATS</code></sub><br/><br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=peristack&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="stats" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=peristack&theme=github-dark-blue&hide_border=true" alt="streak" />
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peristack/peristack/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/peristack/peristack/output/github-snake.svg" alt="snake eating my contributions" />
+</picture>
+
+<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/roberto-sarr%C3%ADa-solsona-a046b2304/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=perillancete@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
+  <a href="https://steamcommunity.com/id/peri44/"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=58a6ff" alt="Steam" /></a>
+</p>
+
+</div>
