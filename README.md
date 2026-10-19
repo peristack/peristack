@@ -17,10 +17,7 @@
 <br/>
 <img src="https://streak-stats.demolab.com?user=peristack&theme=github-dark-blue&hide_border=true" alt="streak" />
 <br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peristack/peristack/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/peristack/peristack/output/github-snake.svg" alt="snake eating my contributions" />
-</picture>
+<img src="https://raw.githubusercontent.com/peristack/peristack/output/github-snake-dark.svg" alt="snake eating my contributions" />
 
 <br/><br/>
 <p align="center">
