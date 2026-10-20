@@ -8,10 +8,9 @@
 <img src="https://img.shields.io/badge/Wireshark-282828?style=for-the-badge&logo=wireshark&logoColor=fabd2f" alt="Wireshark" />
 <img src="https://img.shields.io/badge/VHDL-282828?style=for-the-badge" alt="VHDL" />
 <img src="https://img.shields.io/badge/YAML-282828?style=for-the-badge&logo=yaml&logoColor=fabd2f" alt="YAML" />
-
 <br/><br/>
 <sub><code>// GITHUB STATS</code></sub><br/><br/>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=peristack&show_icons=true&hide_rank=true&theme=gruvbox&hide_border=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=peristack&show_icons=true&hide_rank=true&card_width=495&theme=gruvbox&hide_border=true" alt="stats" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=peristack&theme=gruvbox&hide_border=true" alt="streak" />
 <br/><br/>
