@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=%24+ping+peristack+--telecom;Telecommunications+Engineering+student;Networks+%C2%B7+Cybersecurity+%C2%B7+AI+%C2%B7+Cloud;Building+a+mini+Network+Operations+Center" alt="typing" />
 
-<img src="terminal.svg" alt="Roberto Sarría Solsona - terminal profile card" width="100%" />
+<img src="terminal-retro.svg" alt="Roberto Sarría Solsona - terminal profile card" width="100%" />
 
 <sub><code>// TOOLS & ENVIRONMENT</code></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,latex,linux,git,docker,idea,vscode&theme=dark" alt="Python, Java, C, MATLAB, HTML, LaTeX, Linux, Git, Docker, IntelliJ IDEA, VS Code" />
